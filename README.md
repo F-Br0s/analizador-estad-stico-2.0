@@ -126,3 +126,4 @@ Compara los valores impresos con los del Excel y del software.
 ## Autor
 Proyecto de Residencia Profesional + Proyecto Final de Estadística  
 Instituto Tecnológico de Tizimín
+# analizador-estad-stico-2.0
