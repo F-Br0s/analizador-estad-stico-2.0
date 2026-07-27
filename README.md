@@ -1,7 +1,7 @@
 # Proyecto Final - Estadística para la Inteligencia de Negocios
 
 **Instituto Tecnológico de Tizimín**  
-**Tecnológico Nacional de México**
+**Franklin Antonio Braga Osorio**
 
 ## Título del Proyecto
 **Sistema web para gestión y análisis de satisfacción de clientes en tres áreas de atención**  
@@ -124,6 +124,7 @@ Compara los valores impresos con los del Excel y del software.
 ---
 
 ## Autor
+== Franklin Antonio Braga Osorio ==
 Proyecto de Residencia Profesional + Proyecto Final de Estadística  
 Instituto Tecnológico de Tizimín
 # analizador-estad-stico-2.0
